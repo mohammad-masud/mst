@@ -1,0 +1,59 @@
+/* starting menubox*/
+.box_head{width:100%;
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          overflow: hidden;
+          border:2px solid green;
+           }
+
+.box1    { width: 24%;
+           border: 2px solid red;
+           float: left;
+           background: coral;
+  }          
+
+ .box2{width: 75%;
+      border: 2px solid red;
+      float: left;
+      background: red;
+      float: right;
+  }               
+ /*end of menubox*/
+ .box_head1{width:100%;
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          overflow: hidden;
+          border:2px solid green;
+          height: 500px; }
+
+.box3    { width: 24%;
+           border: 2px solid red;
+           float: left;
+           background: blue;
+           height: 490px;
+  }          
+
+ .box4{width: 75%;
+      border:2px solid red;
+      float: left;
+      background: green;
+      float: right;
+      height: 490px;
+  }
+
+ .box7{width: 24%;
+      border:2px solid red;
+      float: left;
+      background: red;
+      float: right;
+      height: 490px;
+  }
+ .box8{width: 75%;
+      border:2px solid red;
+      float: right;
+      background: coral;
+      float: left;
+      height: 490px;
+  }
