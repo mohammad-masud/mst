@@ -1,4 +1,3 @@
-mst Gaming keyboards are advanced keyboards that are designed to aid in improving and optimizing a user’s gaming experience. This could range from a more ergonomic setup to programmable keys, with each feature unique to the individual gamer. Most people view the computer keyboard as just a peripheral item used for typing up work reports or for social media ranting. However, augmenting your PC setup with a uniquely-built gaming keyboard can allow you to unravel your full gaming abilities; this is made possible through the help of some gamer-friendly features. Gaming keyboards can be quite useful for a broad range of users, from diehard or hard-core gamers to starters looking to gain a competitive edge.
 
  
 
